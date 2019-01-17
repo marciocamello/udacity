@@ -1,0 +1,21 @@
+Desafio da aula
+Leia estes três artigos que cobrem alguns dos fundamentos do React: Virtual DOM, The Diffing Algorithm, e How Virtual-DOM and diffing works in React. Responda as perguntas a seguir no canal #explique:
+
+1) O que é o “DOM Virtual”?
+
+2) Explique o que faz com que o React mantenha um bom desempenho.
+
+3) Explique o algoritmo de Diff para alguém que não tenha nenhuma experiência com programação.
+
+4) Comente em pelo menos três outras postagens no canal.
+
+Desafio da aula
+Responda às perguntas a seguir no canal #explique:
+
+1) O que é um componente? Como os componentes se relacionam com os props?
+
+2) Como é que você sabe se algo precisa ser um componente em uma aplicação React?
+
+3) Comente em pelo menos três outras postagens no canal.
+
+Dê uma olhada em Componentes e Props se você precisar de uma dica.
